@@ -132,3 +132,67 @@ body,html  {
     border-radius: 10px;
     margin: 50px 0 50px 0;
 }
+
+    /*TODO: Layout Galery */
+/* Layout Gallery */
+#gallery {
+    padding: 50px;
+    background-color: #F1EFE3;
+    text-align: center;
+}
+
+#gallery h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.gallery-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 50px;
+}
+
+.gallery-item {
+    background-color: #B4AE8E;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.gallery-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.gallery-item h3 {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.gallery-item p {
+    font-size: 0.9em;
+    color: #666;
+    margin: 0;
+}
+
+.show-more {
+    background-color: #6E6E4E;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transition: background-color 0.3s;
+}
+
+.show-more:hover {
+    background-color: #555;
+}
