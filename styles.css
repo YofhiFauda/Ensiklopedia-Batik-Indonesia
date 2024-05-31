@@ -85,8 +85,7 @@ body,html  {
     }
 
     /* TODO: Layout About */
-/* Layout About */
-/* Layout About */
+
 #about {
     padding: 50px;
     background-color: #F1EFE3;
@@ -134,7 +133,6 @@ body,html  {
 }
 
     /*TODO: Layout Galery */
-/* Layout Gallery */
 #gallery {
     padding: 50px;
     background-color: #F1EFE3;
@@ -150,13 +148,13 @@ body,html  {
 .gallery-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
+    gap: 40px;
     padding: 50px;
 }
 
 .gallery-item {
     background-color: #B4AE8E;
-    padding: 20px;
+    padding: 30px;
     border-radius: 10px;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -170,6 +168,7 @@ body,html  {
 
 .gallery-item h3 {
     font-size: 1.2em;
+    text-align: start;
     margin: 10px 0;
 }
 
@@ -177,6 +176,7 @@ body,html  {
     font-size: 0.9em;
     color: #666;
     margin: 0;
+    text-align: justify;
 }
 
 .show-more {
@@ -195,4 +195,40 @@ body,html  {
 
 .show-more:hover {
     background-color: #555;
+}
+
+    /* TODO: Layout Team */
+#team {
+    padding: 50px;
+    text-align: center;
+    background-color: white;
+}
+
+.team-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.team-item {
+    background-color: #F1EFE3;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    width: calc(20% - 20px);
+}
+
+.team-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+/*TODO: Layout Footer */
+footer {
+    background-color: #B4AE8E;
+    color: white;
+    text-align: center;
+    padding: 20px;
 }
