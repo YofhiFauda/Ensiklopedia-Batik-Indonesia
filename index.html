@@ -64,7 +64,7 @@
     <section id="gallery">
         <h2>Gallery Batik di Indonesia</h2>
         <div id="gallery-container" class="gallery-container"></div>
-        <button class="show-more">Show More</button>
+        <button class="show-more" id="showMoreButton">Show More</button>
     </section>
     <section id="team">
         <h2>Kelompok Kami</h2>
@@ -97,5 +97,11 @@
     @Copyright Kelompok 2 Universitas Muhammadiyah Ponorogo
 </footer>
 <script src="scripts.js"></script>
+<script>
+    document.getElementById('showMoreButton').addEventListener('click', function() {
+        window.location.href = './gallery/gallery.html';
+    });
+</script>
+
 </body>
 </html>
