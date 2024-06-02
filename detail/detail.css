@@ -1,0 +1,37 @@
+.detail-container {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    overflow: visible;
+    background-color: white;
+}
+
+.detail-container img {
+    width: 100%;
+    height: auto;
+}
+
+.detail-content h3{
+    font-size: 40px;
+    padding-left: 2%;
+}
+
+.detail-content p {
+    font-size: 20px;
+    padding-left: 2%;
+}
+
+button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #88816A;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #706B58;
+}
