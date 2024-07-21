@@ -32,7 +32,7 @@ const batik = [
     {
         nama: "Batik Mega Mendung",
         gambar: "../batik/batik-mega-mendung.jpg",
-        deskripsi:"Batik Mega Mendung adalah motif batik yang berasal dari Cirebon, Jawa Barat. Batik Mega Mendung memiliki motif seperti gumpalan awan di langit. Motif awan ini dihiasi dengan gradasi warna yang menarik."
+        deskripsi:"Batik Mega Mendung adalah motif batik yang berasal dari Cirebon, Jawa Barat. Batik Mega Mendung memiliki motif seperti gumpalan awan di langit."
     },
     {
         nama: "Batik Ceplok",
@@ -52,27 +52,27 @@ const batik = [
     {
         nama: "Batik Tujuh Rupa",
         gambar: "../batik/batik-tujuh-rupa.jpeg",
-        deskripsi:"Salah satu batik asal Pekalongan yang terkenal yaitu batik Tujuh Rupa. Batik Tujuh Rupa memiliki motif hewan dan tumbuhan dengan suasana alam yang beragam. Filosofi motif batik ini adalah kebudayaan leluhur Pekalongan yang zaman dahulu termasuk wilayah transit perdagangan." 
+        deskripsi:"Salah satu batik asal Pekalongan yang terkenal yaitu batik Tujuh Rupa. Batik Tujuh Rupa memiliki motif hewan dan tumbuhan dengan suasana alam yang beragam." 
     },
     {
         nama: "Batik Tambal",
         gambar: "../batik/batik-tambal.jpeg",
-        deskripsi:"Batik asal Yogyakarta lainnya adalah batik Tambal. Sesuai namanya, batik Tambal memiliki motif dan filosofi untuk menambal sesuatu yang rusak. Pada awal kemunculannya, batik ini dipakai untuk menyelimuti orang yang sedang sakit karena dipercaya bisa menyembuhkan dengan cepat." 
+        deskripsi:"Batik asal Yogyakarta lainnya adalah batik Tambal. Sesuai namanya, batik Tambal memiliki motif dan filosofi untuk menambal sesuatu yang rusak." 
     },
     {
         nama: "Batik Cuwiri",
         gambar: "../batik/batik-cuwiri.jpeg",
-        deskripsi:"Batik Cuwiri adalah motif batik yang berasal dari Solo dan Yogyakarta. Batik Cuwiri menggunakan motif meru dan garuda yang gagah dengan warna cerah seperti emas, biru, dan putih. Batik Cuwiri dibuat menggunakan zat pewarna soga alam yang mengeluarkan warna dengan ciri khasnya." 
+        deskripsi:"Batik Cuwiri adalah motif batik yang berasal dari Solo dan Yogyakarta. Batik Cuwiri menggunakan motif meru dan garuda yang gagah dengan warna cerah seperti emas, biru, dan putih." 
     },
     {
         nama: "Batik Sekar Jagad",
         gambar: "../batik/batik-sekar-jagad.jpeg",
-        deskripsi:"Batik Sekar Jagad yang berasal dari Solo dan Yogyakarta. Batik Sekar Jagad memiliki motif dengan warna dan bentuk yang unik.Motif batik Sekar Jagad menunjukkan keberagaman Indonesia karena seakan menggabungkan berbagai motif batik dengan warna yang berbeda-beda. Mulai dari ungu, oranye, merah, cokelat, hingga biru." 
+        deskripsi:"Batik Sekar Jagad yang berasal dari Solo dan Yogyakarta. Batik Sekar Jagad memiliki motif dengan warna dan bentuk yang unik.Motif batik Sekar Jagad menunjukkan keberagaman Indonesia." 
     },
     {
         nama: "Batik Sido Asih",
         gambar: "../batik/batik-sido-asih.jpg",
-        deskripsi:"Batik ini masuk ke dalam daftar batik yang digunakan dalam pernikahan adat Jawa. Nama batik ini sendiri berasal dari Bahasa Jawa “sido” yang berarti jadi dan terus menerus serta “asih” yang berarti kasih sayang, sehingga arti keseluruhan dari batik ini adalah kasih sayang yang terus menerus. Gambar batik yang indah ini mewakilkan harapan agar pernikahan yang terjadi akan penuh dengan cinta dan kasih sayang." 
+        deskripsi:"Batik ini masuk ke dalam daftar batik yang digunakan dalam pernikahan adat Jawa. Nama batik ini sendiri berasal dari Bahasa Jawa “sido” yang berarti jadi dan “asih” yang berarti kasih sayang." 
     },
     {
         nama: "Batik Gentongan",
@@ -87,17 +87,17 @@ const batik = [
     {
         nama: "Batik Priyangan",
         gambar: "../batik/batik-priyangan.jpg",
-        deskripsi:"Batik Priyangan sangat menggambarkan masyarakatnya. Motifnya dibuat rapat dan sangat rapi. Memberi kesan bahwa masyarakat Priyangan secara umum terbuka dan pluralis. Motifnya juga bermakna kesederhanaan. Warnanya ada yang cerah dan ada juga yang kalem. Untuk warna gelapnya, ada hitam dan hijau." 
+        deskripsi:"Batik Priyangan sangat menggambarkan masyarakatnya. Motifnya dibuat rapat dan sangat rapi. Memberi kesan bahwa masyarakat Priyangan secara umum terbuka dan pluralis. Motifnya juga bermakna kesederhanaan." 
     },
     {
         nama: "Batik Garutan",
         gambar: "../batik/batik-garutan.jpg",
-        deskripsi:"Motif garutan biasanya didominasi warna krem yang lalu dipadukan dengan warna-warni cerah yang membuatnya berbeda dari batik lainnya. Misalnya warna pink, ungu muda, dan lain-lain. Tak heran kalau motif ini menarik hati anak muda. Biasanya motif Garutan berbegntuk geometri. Ada juga yang bermotif flora dan fauna." 
+        deskripsi:"Motif garutan biasanya didominasi warna krem yang lalu dipadukan dengan warna-warni cerah yang membuatnya berbeda dari batik lainnya. Tak heran kalau motif ini menarik hati anak muda. Biasanya motif Garutan berbegntuk geometri. Ada juga yang bermotif flora dan fauna." 
     },
     {
         nama: "Batik Tubo",
         gambar: "../batik/batik-tubo.jpg",
-        deskripsi:"Banyak yang belum familier dengan batik Tobo asal Ternate, Maluku Utara. Padahal motifnya cantik, mencerminkan kehidupan warga Ternate sehari-hari. Karena itu ada motif pala, cengkeh, pisang bebe, ikan, dan burung Halmahera yang ada di sekitar mereka. Filosofinya adalah kedekatan warga Ternate dengan kekayaan alam yang diberikan Tuhan." 
+        deskripsi:"Banyak yang belum familier dengan batik Tobo asal Ternate, Maluku Utara. Padahal motifnya cantik, mencerminkan kehidupan warga Ternate sehari-hari. Karena itu ada motif pala, cengkeh, pisang bebe, ikan, dan burung Halmahera yang ada di sekitar mereka." 
     },
     {
         nama: "Batik Ulamsari Mas",
@@ -107,7 +107,7 @@ const batik = [
     {
         nama: "Batik Sogan",
         gambar: "../batik/batik-sogan.jpg",
-        deskripsi:"Batik yang memang berasal dari Solo dan Yogyakarta ini memiliki ciri khas warna cokelat muda dengan gambar batik beraksen bunga dan titik-titik, serta lengkungan dan garis di dalam motifnya. Sogan sudah ada sejak era nenek moyang dan biasanya digunakan oleh raja-raja di keraton karena warnanya yang elegan, kombinasi coklat dan hitam." 
+        deskripsi:"Batik yang memang berasal dari Solo dan Yogyakarta ini memiliki ciri khas warna cokelat muda dengan gambar batik beraksen bunga dan titik-titik, serta lengkungan dan garis di dalam motifnya." 
     },
     {
         nama: "Batik Ciamis",
@@ -117,12 +117,12 @@ const batik = [
     {
         nama: "Batik Celup",
         gambar: "../batik/batik-celup.jpg",
-        deskripsi:"Motif batik yang beragam salah satunya disebabkan oleh beragam pula teknik yang digunakan. Salah satu teknik dalam pembuatan batik nusantara adalah dengan teknik celup atau tie dye. Nah, biasanya motif batik modern yang dihasilkan dari teknik celup memiliki pola yang geometris, tapi tidak memiliki garis tegas pemisah antara motif dan warna latar serta memberikan kesan seperti motif psychadelic." 
+        deskripsi:"Motif batik yang beragam salah satunya disebabkan oleh beragam pula teknik yang digunakan. Salah satu teknik dalam pembuatan batik nusantara adalah dengan teknik celup atau tie dye." 
     },
     {
         nama: "Batik Keraton",
         gambar: "../batik/batik-keraton.jpg",
-        deskripsi:"Pada awalnya batik nusantara ini dibuat oleh putri keraton bersama dengan para pembatik yang ada di dalam keraton. Karena hal tersebut pun yang boleh mengenakannya hanya sultan dan keluarganya, sehingga motif ini menjadi salah satu motif yang sangat eksklusif." 
+        deskripsi:"Pada awalnya batik nusantara ini dibuat oleh putri keraton bersama dengan para pembatik yang ada di dalam keraton. Karena hal tersebut pun yang boleh mengenakannya hanya sultan dan keluarganya." 
     },
     {
         nama: "Batik Malang",
@@ -132,12 +132,12 @@ const batik = [
     {
         nama: "Batik Cendrawasih",
         gambar: "../batik/batik-cendrawasih.jpg",
-        deskripsi:"Motif batik cendrawasih memiliki warna-warna cerah, seperti merah, kuning keemasan, dan hijau. Motif batik modern ini juga cukup populer, mengingat burung cendrawasih adalah ikon dari Papua. Burung cendrawasih yang memiliki bulu dan ekor yang indah menjadi khas tersendiri bagi batik cendrawasih." 
+        deskripsi:"Motif batik cendrawasih memiliki warna-warna cerah, seperti merah, kuning keemasan, dan hijau. Burung cendrawasih yang memiliki bulu dan ekor yang indah menjadi khas tersendiri bagi batik cendrawasih." 
     },
     {
         nama: "Batik Lasem",
         gambar: "../batik/batik-lasem.jpg",
-        deskripsi:"motif batik lasem tercipta dari akulturasi budaya Jawa tepatnya Jawa Tengah dan Timur serta Tionghoa. Batik pesisir ini memang memiliki motif dengan warna yang cerah dan khas. Berbagai karakteristik motif batik budaya Jawa terlihat pada motif batik lasem ini, misalnya gambar batik parang, kawung, udan riris, sido mukti dan sekar jagad yang manis. Kemudian diperkaya dengan campuran motif batik Tionghoa yang cerah seperti gambar motif batik burung hong dan naga." 
+        deskripsi:"motif batik lasem tercipta dari akulturasi budaya Jawa tepatnya Jawa Tengah dan Timur serta Tionghoa." 
     },
 
     
