@@ -104,6 +104,41 @@ const batik = [
         gambar: "../batik/batik-ulamsari-mas.jpg",
         deskripsi:"Motif utamanya adalah ikan dan udang yang berdampingan. Makna di baliknya adalah mata pencaharian kebanyakan masyarakat Bali yang bekerja sebagai nelayan." 
     },
+    {
+        nama: "Batik Sogan",
+        gambar: "../batik/batik-sogan.jpg",
+        deskripsi:"Batik yang memang berasal dari Solo dan Yogyakarta ini memiliki ciri khas warna cokelat muda dengan gambar batik beraksen bunga dan titik-titik, serta lengkungan dan garis di dalam motifnya. Sogan sudah ada sejak era nenek moyang dan biasanya digunakan oleh raja-raja di keraton karena warnanya yang elegan, kombinasi coklat dan hitam." 
+    },
+    {
+        nama: "Batik Ciamis",
+        gambar: "../batik/batik-ciamis.jpg",
+        deskripsi:"Motif batik dari Ciamis, Jawa Barat ini memiliki motif yang cenderung sederhana jika dibandingkan dengan motif dari Jawa Tengah dan Jawa Timur. Biasanya, motif batik Ciamis cenderung memiliki corak sederhana dan tidak terlalu ramai." 
+    },
+    {
+        nama: "Batik Celup",
+        gambar: "../batik/batik-celup.jpg",
+        deskripsi:"Motif batik yang beragam salah satunya disebabkan oleh beragam pula teknik yang digunakan. Salah satu teknik dalam pembuatan batik nusantara adalah dengan teknik celup atau tie dye. Nah, biasanya motif batik modern yang dihasilkan dari teknik celup memiliki pola yang geometris, tapi tidak memiliki garis tegas pemisah antara motif dan warna latar serta memberikan kesan seperti motif psychadelic." 
+    },
+    {
+        nama: "Batik Keraton",
+        gambar: "../batik/batik-keraton.jpg",
+        deskripsi:"Pada awalnya batik nusantara ini dibuat oleh putri keraton bersama dengan para pembatik yang ada di dalam keraton. Karena hal tersebut pun yang boleh mengenakannya hanya sultan dan keluarganya, sehingga motif ini menjadi salah satu motif yang sangat eksklusif." 
+    },
+    {
+        nama: "Batik Malang",
+        gambar: "../batik/batik-malang.jpg",
+        deskripsi:"Biasanya motif yang satu ini dihadirkan dengan pola atau simbol-simbol dari kota Malang itu sendiri. Biasanya juga motif ini dihadirkan dengan warna-warna yang lebih cerah. Misalnya warna dasar biru atau hijau yang ditimpa lagi dengan warna putih." 
+    },
+    {
+        nama: "Batik Cendrawasih",
+        gambar: "../batik/batik-cendrawasih.jpg",
+        deskripsi:"Motif batik cendrawasih memiliki warna-warna cerah, seperti merah, kuning keemasan, dan hijau. Motif batik modern ini juga cukup populer, mengingat burung cendrawasih adalah ikon dari Papua. Burung cendrawasih yang memiliki bulu dan ekor yang indah menjadi khas tersendiri bagi batik cendrawasih." 
+    },
+    {
+        nama: "Batik Lasem",
+        gambar: "../batik/batik-lasem.jpg",
+        deskripsi:"motif batik lasem tercipta dari akulturasi budaya Jawa tepatnya Jawa Tengah dan Timur serta Tionghoa. Batik pesisir ini memang memiliki motif dengan warna yang cerah dan khas. Berbagai karakteristik motif batik budaya Jawa terlihat pada motif batik lasem ini, misalnya gambar batik parang, kawung, udan riris, sido mukti dan sekar jagad yang manis. Kemudian diperkaya dengan campuran motif batik Tionghoa yang cerah seperti gambar motif batik burung hong dan naga." 
+    },
 
     
 ];
