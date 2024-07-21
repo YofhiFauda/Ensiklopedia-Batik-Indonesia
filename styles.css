@@ -161,8 +161,8 @@ body,html  {
 }
 
 .gallery-item img {
-    max-width: 100%;
-    height: auto;
+    width: 310px;
+    height: 187px;
     border-radius: 10px;
 }
 
