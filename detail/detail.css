@@ -1,3 +1,6 @@
+body{
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
 .detail-container {
     display: flex;
     flex-direction: column;
@@ -17,7 +20,7 @@
 }
 
 .detail-content p {
-    font-size: 20px;
+    font-size: 1.3em;
     padding-left: 2%;
     max-width: 1200px;
     word-wrap: break-word;
